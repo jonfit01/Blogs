@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My first blog",
+      "description": "Great blog",
+      "id": 1
+    },
+    {
+      "title": "I create this blog",
+      "description": "Made by Me",
+      "userId": "103429079355646173442",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "After submission, it goes to main page",
+      "id": 3
+    },
+    {
+      "title": "Test for Reused From",
+      "description": "Test for reused form",
+      "id": 4
+    },
+    {
+      "title": "Change put to patch",
+      "description": "All good!",
+      "userId": "103429079355646173442",
+      "id": 5
+    }
+  ]
+}

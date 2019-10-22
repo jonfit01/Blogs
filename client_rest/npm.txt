@@ -1,0 +1,12 @@
+cd api
+npm init
+npm install --save json-server 
+then create a file call db.json in root of api folder
+{
+  "streams": []
+}
+
+
+npm install --save axios redux-thunk
+
+npm install --save lodash
